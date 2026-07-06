@@ -1,4 +1,4 @@
-Objective
+Objective:
 The goal of this project is to analyze Netflix’s dataset using SQL to uncover insights about its content library, trends, and audience preferences. By applying SQL queries, you’ll explore how Netflix structures its catalog and identify patterns in movies, TV shows, genres, and release years.
 
 SQL Concepts Applied
